@@ -1,2 +1,2 @@
 # WeatherSample
-This is a simple iOS application displaying the local weather of Oakland, CA
+This is a simple iOS application displaying the local weather of Oakland, CA. The application displays the five day forecast and list the high and low temperatures for the day along with icons to distinguish between sunny, rainy, and cloudy.  The app gives more in depth detail about the weather which include precipitation intensity, ozone, apparent temperature, dew point, humidity, wind speed, wind bearing, visibility, cloud cover, and pressure.
